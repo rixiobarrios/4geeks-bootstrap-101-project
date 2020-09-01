@@ -3,3 +3,5 @@
 # 4Geeks Academy Workshop: Bootstrap 101 Project
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eb932dee-e301-4695-9f28-95f2891ea2a2/deploy-status)](https://app.netlify.com/sites/bootstrap-101-project/deploys)
+
+How do you know being a Web Developer is for you? Learn the basics of Bootstrap in this webinar. Free Admission!
